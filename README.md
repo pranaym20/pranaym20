@@ -2,7 +2,7 @@
 
 📍 **India** | 💼 **GTM & RevOps Architect** | 🤖 **AI-Native Builder** | ⚙️ **Automation Engineer**
 
-Building **autonomous business operations** powered by cutting-edge AI and intelligent automation. I bridge sales, marketing, and customer success through data-driven RevOps strategies and AI-first principles.
+Building **autonomous business operations** powered by cutting-edge AI and intelligent automation. I bridge sales, marketing, and customer success through data-driven RevOps strategies and AI-first pr[...]
 
 ---
 
@@ -17,7 +17,7 @@ Building **autonomous business operations** powered by cutting-edge AI and intel
 ![AutoGPT](https://img.shields.io/badge/-AutoGPT-FF6B35?style=flat-square&logoColor=white)
 ![AgentGPT](https://img.shields.io/badge/-AgentGPT-FF6B35?style=flat-square&logoColor=white)
 ![ReAct](https://img.shields.io/badge/-ReAct-3178C6?style=flat-square&logoColor=white)
-![OpenClaude](https://img.shields.io/badge/-OpenClaude-9F7AEA?style=flat-square&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/-OpenClaw-9F7AEA?style=flat-square&logoColor=white)
 ![Hermes](https://img.shields.io/badge/-Hermes-00D084?style=flat-square&logoColor=white)
 
 ### Developer Tools & IDEs
@@ -25,6 +25,8 @@ Building **autonomous business operations** powered by cutting-edge AI and intel
 ![Cursor](https://img.shields.io/badge/-Cursor%20IDE-00C7B7?style=flat-square&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/-Windsurf-FF6B35?style=flat-square&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnubash&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 ### Core Languages
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -181,7 +183,7 @@ Building the **next generation of AI-native business platforms** that:
 
 ### Philosophy
 
-> "Automation beats manual" - I build systems that solve real business problems, then scale them with AI. Currently exploring how agentic engineering transforms revenue operations and GTM execution.
+> "Automation beats manual" - I build systems that solve real business problems, then scale them with AI. Currently exploring how agentic engineering transforms revenue operations and GTM executi[...]
 
 <details>
 <summary>Random Facts</summary>
