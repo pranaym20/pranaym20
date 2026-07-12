@@ -1,203 +1,69 @@
 # Pranay Mishra
 
-📍 **India** | 💼 **GTM & RevOps Architect** | 🤖 **AI-Native Builder** | ⚙️ **Automation Engineer**
+Pranay Mishra is a Revenue Operations (RevOps) and GTM engineering specialist based in Bangalore who works remotely and async with teams in US and EU time zones. He builds AI agents for marketing and sales automation. Five-plus years in B2B go-to-market. Multi-agent systems that run revenue workflows without a human in the loop.
 
-Building **autonomous business operations** powered by cutting-edge AI and intelligent automation. I bridge sales, marketing, and customer success through data-driven RevOps strategies and AI-first pr[...]
+I'm not a pure software engineer and not a pure RevOps operator. I sit between the two: design how GTM systems should work, then build the agent stacks that make them run.
 
----
+## AI Agent Systems for Revenue Operations
 
-## Tech Stack & Tools
+I design multi-agent systems for B2B go-to-market teams. Concretely:
 
-### AI & LLM Frameworks
-![Claude](https://img.shields.io/badge/-Claude-9F7AEA?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI%20GPT-412991?style=flat-square&logo=openai&logoColor=white)
-![Codex](https://img.shields.io/badge/-Codex-000000?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![AutoGPT](https://img.shields.io/badge/-AutoGPT-FF6B35?style=flat-square&logoColor=white)
-![AgentGPT](https://img.shields.io/badge/-AgentGPT-FF6B35?style=flat-square&logoColor=white)
-![ReAct](https://img.shields.io/badge/-ReAct-3178C6?style=flat-square&logoColor=white)
-![OpenClaw](https://img.shields.io/badge/-OpenClaw-9F7AEA?style=flat-square&logoColor=white)
-![Hermes](https://img.shields.io/badge/-Hermes-00D084?style=flat-square&logoColor=white)
+- Multi-agent architectures with Claude Code, OpenCode, and Hermes agents
+- Agents wired into HubSpot, Salesforce, and the rest of the GTM stack
+- Internal tools in TypeScript and Python on Supabase, with n8n for orchestration
+- Workflows that keep running after the laptop closes
 
-### Developer Tools & IDEs
-![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-181717?style=flat-square&logo=github&logoColor=white)
-![Cursor](https://img.shields.io/badge/-Cursor%20IDE-00C7B7?style=flat-square&logoColor=white)
-![Windsurf](https://img.shields.io/badge/-Windsurf-FF6B35?style=flat-square&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnubash&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+RevOps should not scale by hiring more people to move data between tools. It should scale by agents that own the boring middle of marketing and sales operations.
 
-### Core Languages
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+## What I'm Building
 
-### Business & Automation
-![Zapier](https://img.shields.io/badge/-Zapier-FF6B35?style=flat-square&logo=zapier&logoColor=white)
-![Make](https://img.shields.io/badge/-Make-000000?style=flat-square&logo=integromat&logoColor=white)
-![Airtable](https://img.shields.io/badge/-Airtable-13B800?style=flat-square&logo=airtable&logoColor=white)
-![Salesforce](https://img.shields.io/badge/-Salesforce-00A1DF?style=flat-square&logo=salesforce&logoColor=white)
-![HubSpot](https://img.shields.io/badge/-HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
+Most of my work is private while it's in active build. Themes, not links:
 
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- AI content operations — research, drafting, and distribution without a content ops hire
+- Agentic job-search tooling — multi-step search and outreach run by agents
+- Revenue automation — GTM process automation on top of CRM and marketing systems
 
----
+Public releases land here as they're ready. I build in public on X as [@pranaymishra](https://x.com/pranaymishra) — that's where the work shows up first.
 
-## 🎯 Core Expertise
+## How I Work
 
-### GTM & Revenue Operations
-- **Go-To-Market Strategy** – Building scalable GTM engines with precision
-- **Revenue Operations (RevOps)** – Automating and optimizing revenue workflows
-- **Sales Enablement** – Data-driven sales process optimization
-- **Revenue Intelligence** – Predictive analytics and KPI tracking
-- **Process Automation** – Eliminating manual workflows through intelligent systems
+Most of the build loop is agent-native. Claude Code and related runtimes handle long stretches of implementation; I own architecture, product judgment, and the revenue context the agents need.
 
-### AI-Native Architecture
-- **LLM Orchestration** – Claude, GPT, Gemini integration and optimization
-- **Agentic Systems** – Multi-agent frameworks for autonomous operations
-- **Prompt Engineering** – Building production-grade AI workflows
-- **AI-Powered Analytics** – Extracting intelligence from unstructured business data
-- **Autonomous Workflows** – Self-healing, intelligent automation pipelines
+Stack in practice: Claude Code for agent orchestration, TypeScript and Python for product code, Supabase for data, n8n for workflow glue, HubSpot and Salesforce where the GTM truth lives.
 
-### Business Automation
-- **End-to-End Workflow Design** – Complex business process automation
-- **API Integration** – Connecting disparate systems seamlessly
-- **Data Pipeline Architecture** – Moving business data intelligently
-- **Business Process Optimization (BPO)** – Transforming legacy workflows
-- **Zero-Overhead Scaling** – Growing operations without headcount
+## Background
 
----
+Five-plus years in B2B go-to-market and Revenue Operations. The through-line is the same whether the work was process design or software: make revenue systems measurable, repeatable, and less dependent on heroic manual effort. AI agents are the current way to get there — not a rebrand of the same slide decks.
 
-## 🏗️ Featured Projects
+## Work With Me
 
-### 📊 [revenue-mindset](https://github.com/pranaym20/revenue-mindset)
-**AI-Driven Revenue Operations Framework**
-- GTM automation with LLMs and intelligent agents
-- Revenue intelligence platform
-- Built with TypeScript | Private
+Open to a few shapes of work:
 
-### 🤝 [soul-match](https://github.com/pranaym20/soul-match)
-**AI-Powered Matching Engine**
-- Strategic relationship building at scale
-- Advanced matching algorithms
-- Built with TypeScript | Private
+- **Full-time remote roles** — RevOps, GTM engineering, or AI automation for B2B SaaS teams that need systems built, not just slideware
+- **Consulting & builds** — AI agent systems, workflow automation, Claude Code setup, and coaching so the team can run the loop themselves
+- **Advisory** — AI-native revenue operations for founders and small GTM teams who want a clear build plan before they scale headcount
 
-### 📋 [rsvp](https://github.com/pranaym20/rsvp)
-**Event & Commitment Management System**
-- Automating business coordination workflows
-- Intelligent event orchestration
-- Built with TypeScript | Private
+Reach me at [pranaym20@gmail.com](mailto:pranaym20@gmail.com) or [LinkedIn](https://linkedin.com/in/pranay-mishra).
 
-### 📚 [studymate](https://github.com/pranaym20/studymate)
-**Learning Automation Platform**
-- AI-assisted knowledge management
-- Personalized skill development
-- Built with TypeScript | Private
+## What does a RevOps AI builder actually do?
 
-### 🎯 [content_os](https://github.com/pranaym20/content_os)
-**Content Operations System**
-- Content workflow orchestration with AI intelligence
-- Multi-channel content management
-- Built with TypeScript | Private
+**What is GTM engineering in this context?**  
+GTM engineering means building the systems that connect marketing, sales, and customer success so revenue data and workflows stay consistent. For me that includes automation and AI agents on top of HubSpot, Salesforce, and custom tools — not only CRM configuration.
 
-### 🚀 [basic](https://github.com/pranaym20/basic)
-**Foundational Automation Experiments**
-- Core automation principles and patterns
-- Early-stage exploration
+**What stack does Pranay Mishra use for AI agents?**  
+Claude Code, OpenCode, and Hermes for multi-agent work; TypeScript and Python for application code; Supabase and n8n for data and orchestration; HubSpot and Salesforce as the systems of record for B2B GTM.
 
----
+**Where is Pranay Mishra based?**  
+Bangalore. Works remotely and async with US and EU time zones on RevOps automation, agent systems for GTM, and practical AI tooling for revenue teams.
 
-## 🧠 Philosophy
+**Does Pranay Mishra take consulting or advisory work?**  
+Yes. Available for consulting engagements — AI agent systems, GTM workflow automation, Claude Code setup and team coaching — and advisory on AI-native revenue operations for founders and GTM teams.
 
-> **"AI-first principles applied to business operations = Autonomous growth engines"**
+**Is Pranay Mishra available for remote roles?**  
+Yes. Open to full-time remote RevOps, GTM engineering, and AI automation roles at B2B SaaS companies. Based in Bangalore; works async across US and EU hours.
 
-I don't just *use* AI tools—I architect systems where AI agents autonomously handle complex business processes. My north star:
+## Connect
 
-- **Zero-overhead scaling** through intelligent automation
-- **Revenue optimization** via data-driven decision-making
-- **Operational excellence** through AI-native workflows
-- **Future-ready infrastructure** built for autonomous operations
-- **Business impact** that compounds over time
-
----
-
-## 🎓 Key Competencies
-
-✅ **RevOps & GTM Strategy** – Sales enablement, revenue forecasting, workflow automation  
-✅ **AI Architecture** – Agentic systems design, LLM orchestration, prompt engineering  
-✅ **Business Automation** – Workflow design, integration architecture, optimization  
-✅ **Data & Analytics** – Revenue intelligence, predictive modeling, KPI tracking  
-✅ **Technical Leadership** – Bridging business and engineering for measurable ROI  
-
----
-
-## 🌟 Current Focus
-
-Building the **next generation of AI-native business platforms** that:
-- ✨ Automate end-to-end GTM workflows
-- 🔄 Scale RevOps with minimal manual intervention
-- 📊 Enable data-driven decision-making at every level
-- ⚡ Reduce operational overhead through intelligent automation
-- 🚀 Turn business problems into competitive advantages
-
----
-
-## 📈 What I'm Doing
-
-- **Living in the AI-first future** – Building and shipping tools to accelerate business transformation
-- **Rapid prototyping** – Full automation stacks in weeks, not months
-- **RevOps innovation** – Sharing learnings on automation best practices
-- **Agentic engineering** – Exploring how AI agents reshape business operations
-
----
-
-## 🤝 Let's Connect
-
-**Interested in:**
-- 🚀 GTM & RevOps automation projects
-- 🤖 AI-native system architecture
-- 📊 Business process optimization with AI agents
-- 💡 Revenue operations innovation
-- 🔗 Building the future of autonomous business
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/-Pranay%20Mishra-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranay-mishra)
-[![GitHub](https://img.shields.io/badge/-Follow%20%40pranaym20-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pranaym20)
-[![Email](https://img.shields.io/badge/-pranaym20@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pranaym20@gmail.com)
-
----
-
-### Recognition
-
-- 🎯 GTM & RevOps specialist with 5+ years of business automation experience
-- 🤖 AI-native systems architect leveraging cutting-edge LLMs and agents
-- 🚀 Built multiple revenue automation platforms from scratch
-- 💼 Proven track record of driving measurable business impact through automation
-
-### Philosophy
-
-> "Automation beats manual" - I build systems that solve real business problems, then scale them with AI. Currently exploring how agentic engineering transforms revenue operations and GTM executi[...]
-
-<details>
-<summary>Random Facts</summary>
-
-- Run Claude + GPT instances concurrently for complex automation tasks
-- Obsessed with RevOps and business automation fundamentals
-- Passionate about AI-first principles in business
-- Gym enthusiast (when not automating workflows)
-- Coffee-powered optimization enthusiast
-
-</details>
-
----
-
-**Built with ❤️ for business automation, powered by AI**
-
-*Last updated: May 2026 | Continuously learning and building*
+- [Pranay Mishra on LinkedIn — RevOps & GTM](https://linkedin.com/in/pranay-mishra)
+- [Pranay Mishra on X — building AI agents in public](https://x.com/pranaymishra)
+- [Email Pranay Mishra](mailto:pranaym20@gmail.com)
