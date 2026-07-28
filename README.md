@@ -1,69 +1,52 @@
+<p align="center">
+  <samp>
+    <a href="https://x.com/pranaymishra_">x</a> ·
+    <a href="https://www.linkedin.com/in/pranaymishra/">linkedin</a> ·
+    <a href="https://cal.com/pranaymishra/ai-gtm">book a call</a> ·
+    <a href="mailto:pranaym20@gmail.com">email</a>
+  </samp>
+</p>
+
 # Pranay Mishra
 
-Pranay Mishra is a Revenue Operations (RevOps) and GTM engineering specialist based in Bangalore who works remotely and async with teams in US and EU time zones. He builds AI agents for marketing and sales automation. Five-plus years in B2B go-to-market. Multi-agent systems that run revenue workflows without a human in the loop.
+Revenue operations, then agents that run it. Bangalore, async with US and EU hours.
 
-I'm not a pure software engineer and not a pure RevOps operator. I sit between the two: design how GTM systems should work, then build the agent stacks that make them run.
+## Projects
 
-## AI Agent Systems for Revenue Operations
+Private during build. Links land here as they ship.
 
-I design multi-agent systems for B2B go-to-market teams. Concretely:
+**Seva** — Citizen advocate for India. Drafts complaints, tracks statutory deadlines, escalates across 13 regulatory domains without being asked.
 
-- Multi-agent architectures with Claude Code, OpenCode, and Hermes agents
-- Agents wired into HubSpot, Salesforce, and the rest of the GTM stack
-- Internal tools in TypeScript and Python on Supabase, with n8n for orchestration
-- Workflows that keep running after the laptop closes
+**Nook** — Personal OS canvas. Nine widgets, a real terminal, motion wallpapers, and a tool-calling voice agent on one surface. Three desks, keyboard-driven.
 
-RevOps should not scale by hiring more people to move data between tools. It should scale by agents that own the boring middle of marketing and sales operations.
+**Content OS** — Content operations for one person. Research, drafting, scheduling, distribution analytics — one loop instead of five subscriptions.
 
-## What I'm Building
+**GLP-1 Directory** — Compares GLP-1 clinics and online programs on real prices. Generated from clinic and city data.
 
-Most of my work is private while it's in active build. Themes, not links:
+**Usage Tracker** — macOS menu-bar app. Reads local Claude Code and Codex logs, shows what the session cost.
 
-- AI content operations — research, drafting, and distribution without a content ops hire
-- Agentic job-search tooling — multi-step search and outreach run by agents
-- Revenue automation — GTM process automation on top of CRM and marketing systems
+## Setup
 
-Public releases land here as they're ready. I build in public on X as [@pranaymishra](https://x.com/pranaymishra) — that's where the work shows up first.
+A fleet of agents with a written cost model that routes each task to the cheapest worker that can do it. A strategist agent on Telegram, twice a day, asking what shipped. Agents write most of the code. Architecture, security review, and revenue context stay human.
 
-## How I Work
+Claude Code · OpenCode · TypeScript · Python · Supabase · n8n · HubSpot · Salesforce
 
-Most of the build loop is agent-native. Claude Code and related runtimes handle long stretches of implementation; I own architecture, product judgment, and the revenue context the agents need.
+## Open To
 
-Stack in practice: Claude Code for agent orchestration, TypeScript and Python for product code, Supabase for data, n8n for workflow glue, HubSpot and Salesforce where the GTM truth lives.
+Full-time remote — RevOps, GTM engineering, AI automation.
 
-## Background
+Consulting — agent systems, workflow automation, Claude Code setup for teams.
 
-Five-plus years in B2B go-to-market and Revenue Operations. The through-line is the same whether the work was process design or software: make revenue systems measurable, repeatable, and less dependent on heroic manual effort. AI agents are the current way to get there — not a rebrand of the same slide decks.
+**[Book 30 minutes →](https://cal.com/pranaymishra/ai-gtm)**
 
-## Work With Me
+## What is GTM engineering?
 
-Open to a few shapes of work:
+Building the systems that connect marketing, sales, and customer success so revenue data and workflows stay consistent. In practice: automation and AI agents layered on top of HubSpot and Salesforce, not CRM configuration.
 
-- **Full-time remote roles** — RevOps, GTM engineering, or AI automation for B2B SaaS teams that need systems built, not just slideware
-- **Consulting & builds** — AI agent systems, workflow automation, Claude Code setup, and coaching so the team can run the loop themselves
-- **Advisory** — AI-native revenue operations for founders and small GTM teams who want a clear build plan before they scale headcount
+## What does an agent stack replace in revenue operations?
 
-Reach me at [pranaym20@gmail.com](mailto:pranaym20@gmail.com) or [LinkedIn](https://linkedin.com/in/pranay-mishra).
+The manual middle — list building, enrichment, lead routing, data hygiene, report assembly, follow-up sequencing. Strategy, pricing, and judgment calls stay with people. RevOps shouldn't scale by hiring someone to move data between tools.
 
-## What does a RevOps AI builder actually do?
+## How do you run multi-agent systems in production?
 
-**What is GTM engineering in this context?**  
-GTM engineering means building the systems that connect marketing, sales, and customer success so revenue data and workflows stay consistent. For me that includes automation and AI agents on top of HubSpot, Salesforce, and custom tools — not only CRM configuration.
-
-**What stack does Pranay Mishra use for AI agents?**  
-Claude Code, OpenCode, and Hermes for multi-agent work; TypeScript and Python for application code; Supabase and n8n for data and orchestration; HubSpot and Salesforce as the systems of record for B2B GTM.
-
-**Where is Pranay Mishra based?**  
-Bangalore. Works remotely and async with US and EU time zones on RevOps automation, agent systems for GTM, and practical AI tooling for revenue teams.
-
-**Does Pranay Mishra take consulting or advisory work?**  
-Yes. Available for consulting engagements — AI agent systems, GTM workflow automation, Claude Code setup and team coaching — and advisory on AI-native revenue operations for founders and GTM teams.
-
-**Is Pranay Mishra available for remote roles?**  
-Yes. Open to full-time remote RevOps, GTM engineering, and AI automation roles at B2B SaaS companies. Based in Bangalore; works async across US and EU hours.
-
-## Connect
-
-- [Pranay Mishra on LinkedIn — RevOps & GTM](https://linkedin.com/in/pranay-mishra)
-- [Pranay Mishra on X — building AI agents in public](https://x.com/pranaymishra)
-- [Email Pranay Mishra](mailto:pranaym20@gmail.com)
+One orchestrator holds context and decomposes work; cheaper models do bulk implementation; every diff gets a human security review before merge. Cost model decides routing, not preference. Failures get reported as failures — an agent that silently half-finished is worse than one that stopped.
