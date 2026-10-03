@@ -60,7 +60,7 @@ AI agents for account research, competitive analysis, call-transcript insights a
 
 ## 📈 Track record
 
-| | |
+| Area | Result |
 |---|---|
 | 🤖 **AI** | Led my company's first AI agent programme for sales and marketing teams |
 | 🌍 **Global rollout** | Took a sales engagement platform from business case to 25-user pilot to rollout across APAC, EMEA and the Americas |
