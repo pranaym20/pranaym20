@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://cal.com/pranaymishra/ai-gtm"><img src="https://img.shields.io/badge/Book_a_free_30--min_call-D97706?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a free 30-minute call with Pranay Mishra" /></a>
+  <a href="https://pranaym20.github.io"><img src="https://img.shields.io/badge/pranaym20.github.io-131009?style=for-the-badge&logo=googlechrome&logoColor=D97706" alt="Pranay Mishra website: digital transformation and RevOps consultant" /></a>
   <a href="https://github.com/pranaym20/revops-agent-kit"><img src="https://img.shields.io/badge/revops--agent--kit-131009?style=for-the-badge&logo=github&logoColor=D97706" alt="revops-agent-kit: open-source AI agents for RevOps" /></a>
   <a href="https://www.linkedin.com/in/pranaymishra/"><img src="https://img.shields.io/badge/LinkedIn-131009?style=for-the-badge&logo=linkedin&logoColor=D97706" alt="Pranay Mishra on LinkedIn" /></a>
   <a href="https://x.com/pranaymishra_"><img src="https://img.shields.io/badge/X-131009?style=for-the-badge&logo=x&logoColor=D97706" alt="Pranay Mishra on X" /></a>
