@@ -17,7 +17,7 @@
 
 ---
 
-## 🧭 What I do
+## What I do
 
 <table>
 <tr>
@@ -26,7 +26,6 @@
 ### Digital transformation
 Map how leads, deals and data actually move through your company. Redesign the process first, then the tech stack around it. Roll it out across teams and regions.
 
-`process redesign` `change management` `tech stack audit`
 
 </td>
 <td width="50%" valign="top">
@@ -34,7 +33,6 @@ Map how leads, deals and data actually move through your company. Redesign the p
 ### Revenue & sales operations
 Lead routing, territory and account assignment, data enrichment, CRM hygiene, pipeline reporting and forecasting dashboards.
 
-`RevOps` `sales ops` `pipeline reporting` `lead routing`
 
 </td>
 </tr>
@@ -44,7 +42,6 @@ Lead routing, territory and account assignment, data enrichment, CRM hygiene, pi
 ### Salesforce & HubSpot
 CRM architecture, migrations, integrations and automation. Sales engagement and enrichment tools wired into one source of truth.
 
-`Salesforce consultant` `HubSpot consultant` `CRM automation`
 
 </td>
 <td width="50%" valign="top">
@@ -52,23 +49,22 @@ CRM architecture, migrations, integrations and automation. Sales engagement and 
 ### AI agents & automation
 AI agents for account research, competitive analysis, call-transcript insights and CRM updates, built with Claude, Power Automate and n8n.
 
-`AI automation` `AI agents` `workflow automation`
 
 </td>
 </tr>
 </table>
 
-## 📈 Track record
+## Track record
 
 | Area | Result |
 |---|---|
-| 🤖 **AI** | Led my company's first AI agent programme for sales and marketing teams |
-| 🌍 **Global rollout** | Took a sales engagement platform from business case to 25-user pilot to rollout across APAC, EMEA and the Americas |
-| 🧩 **Revenue stack** | Own the full go-to-market stack end to end: CRM, sales engagement, enrichment, e-signature and AI tools |
-| 🧹 **Data quality** | Enriched 30K+ CRM contacts and cleaned out ghost records; exec deal alerts from Salesforce into Microsoft Teams |
-| 👥 **Team** | Lead a team of 5 across operations, engineering and analytics |
+| **AI** | Led my company's first AI agent programme for sales and marketing teams |
+| **Global rollout** | Took a sales engagement platform from business case to 25-user pilot to rollout across APAC, EMEA and the Americas |
+| **Revenue stack** | Own the full go-to-market stack end to end: CRM, sales engagement, enrichment, e-signature and AI tools |
+| **Data quality** | Enriched 30K+ CRM contacts and cleaned out ghost records; exec deal alerts from Salesforce into Microsoft Teams |
+| **Team** | Lead a team of 5 across operations, engineering and analytics |
 
-## 🛠️ Tools
+## Tools
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-131009?style=flat-square&logo=salesforce&logoColor=D97706)
 ![HubSpot](https://img.shields.io/badge/HubSpot-131009?style=flat-square&logo=hubspot&logoColor=D97706)
@@ -83,20 +79,20 @@ AI agents for account research, competitive analysis, call-transcript insights a
 ![Python](https://img.shields.io/badge/Python-131009?style=flat-square&logo=python&logoColor=D97706)
 ![Supabase](https://img.shields.io/badge/Supabase-131009?style=flat-square&logo=supabase&logoColor=D97706)
 
-## 🚀 Products I've built
+## Products I've built
 
 I build my own software with AI agents. That's how I know what they can and can't do for a client.
 
 | Product | What it does | Status |
 |---|---|---|
-| **[Leverage](https://job-search-leverage.vercel.app)** | Job search for visa-sponsorship roles. Millions of postings across EU and Gulf job boards, employers checked against official sponsor registers, applications tailored by AI | 🟢 Live beta |
+| **[Leverage](https://job-search-leverage.vercel.app)** | Job search for visa-sponsorship roles. Millions of postings across EU and Gulf job boards, employers checked against official sponsor registers, applications tailored by AI | Live beta |
 | **Loupe** | Analytics for X creators. Models Original Content Rewards eligibility before you post | v0.4.0 |
 | **Uptodate** | Native macOS app that tracks and updates software from ~48 sources, with a compliance trail for IT teams | In build |
 | **Seva** | AI citizen advocate for India. Drafts complaints, tracks statutory deadlines, escalates across 13 regulatory domains | In build |
 
 <sub>Most repos stay private while in build. Public links land here as each one ships.</sub>
 
-## 💬 FAQ
+## FAQ
 
 ### What does digital transformation mean for a sales or revenue team?
 Replacing manual, spreadsheet-driven work with connected systems: one source of truth for customer data, automated lead routing and enrichment, and reporting that updates itself. It starts with the process, not the software.
@@ -120,4 +116,3 @@ It starts with a short audit of your current process and tools. You get a writte
   <a href="https://cal.com/pranaymishra/ai-gtm"><b>Book a free 30-minute call →</b></a>
 </p>
 
-<p align="center"><sub>Digital transformation consultant · RevOps consultant · Sales operations · Salesforce & HubSpot consultant · CRM automation · AI automation · AI agents for sales · Remote, US & EU time zones</sub></p>
